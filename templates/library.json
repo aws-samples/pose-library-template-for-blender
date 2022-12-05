@@ -1,0 +1,365 @@
+
+{
+    "info": {
+        "description": "This file contains pose data for Blender's Pose Library.",
+        "user": "sjason",
+        "filepath": "/Users/sjason/Documents/Blender/picchu/assets/chars/mayu/library/mayu_library.blend",
+        "date": "Nov 16, 2022 - 02:35:08 PM"
+    },
+    "settings": {
+        "category_start_frame": 100,
+        "category_increments": 100,
+        "category_active_index": 3,
+        "category_activate_layers": true,
+        "pose_increments": 1,
+        "pose_include_neutral": true
+    },
+    "poses": [
+        {
+            "index": 0,
+            "category": "face",
+            "ignore": [
+                "eyeAim.R",
+                "iris.R",
+                "pupil.R",
+                "eyeAim.L",
+                "iris.L",
+                "pupil.L"
+            ],
+            "layers": [
+                24,
+                25,
+                26,
+                28
+            ],
+            "mirror": "NONE",
+            "camera": "face_cam",
+            "pose": [
+                {
+                    "index": 0,
+                    "name": ".neutral",
+                    "description": "Neutral pose."
+                },
+                {
+                    "index": 1,
+                    "name": "happy 1",
+                    "description": "Happy poses, growing in intensity"
+                },
+                {
+                    "index": 2,
+                    "name": "happy 2",
+                    "description": ""
+                },
+                {
+                    "index": 3,
+                    "name": "happy 3",
+                    "description": ""
+                },
+                {
+                    "index": 4,
+                    "name": "happy 4",
+                    "description": ""
+                },
+                {
+                    "index": 5,
+                    "name": ".neutral",
+                    "description": ""
+                },
+                {
+                    "index": 6,
+                    "name": "worried 1",
+                    "description": "Worried poses, growing in intensity"
+                },
+                {
+                    "index": 7,
+                    "name": "worried 2",
+                    "description": ""
+                },
+                {
+                    "index": 8,
+                    "name": "worried 3",
+                    "description": ""
+                },
+                {
+                    "index": 9,
+                    "name": "worried 4",
+                    "description": ""
+                },
+                {
+                    "index": 10,
+                    "name": ".neutral",
+                    "description": ""
+                },
+                {
+                    "index": 11,
+                    "name": "surprise 1",
+                    "description": "Surprised poses, growing in intensity"
+                },
+                {
+                    "index": 12,
+                    "name": "surprise 2",
+                    "description": ""
+                },
+                {
+                    "index": 13,
+                    "name": "surprise 3",
+                    "description": ""
+                },
+                {
+                    "index": 14,
+                    "name": "surprise 4",
+                    "description": ""
+                },
+                {
+                    "index": 15,
+                    "name": ".neutral",
+                    "description": ""
+                },
+                {
+                    "index": 16,
+                    "name": "mad 1",
+                    "description": "Mad poses, growing in intensity"
+                },
+                {
+                    "index": 17,
+                    "name": "mad 2",
+                    "description": ""
+                },
+                {
+                    "index": 18,
+                    "name": "mad 3",
+                    "description": ""
+                },
+                {
+                    "index": 19,
+                    "name": "mad 4",
+                    "description": ""
+                },
+                {
+                    "index": 20,
+                    "name": ".neutral",
+                    "description": ""
+                },
+                {
+                    "index": 21,
+                    "name": "sad 1",
+                    "description": "Sad poses, growing in intensity"
+                },
+                {
+                    "index": 22,
+                    "name": "sad 2",
+                    "description": ""
+                },
+                {
+                    "index": 23,
+                    "name": "sad 3",
+                    "description": ""
+                },
+                {
+                    "index": 24,
+                    "name": "sad 4",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "category": "lipsync",
+            "ignore": [],
+            "layers": [
+                28
+            ],
+            "mirror": "NONE",
+            "camera": "lipsync_cam",
+            "pose": [
+                {
+                    "index": 0,
+                    "name": ".neutral",
+                    "description": "Neutral pose."
+                },
+                {
+                    "index": 1,
+                    "name": "AA",
+                    "description": "At, And, Ate"
+                },
+                {
+                    "index": 2,
+                    "name": "OH",
+                    "description": "lOOk, bIrd, sUpply"
+                },
+                {
+                    "index": 3,
+                    "name": "AH",
+                    "description": "cUt, Ice"
+                },
+                {
+                    "index": 4,
+                    "name": "EH",
+                    "description": "End, It"
+                },
+                {
+                    "index": 5,
+                    "name": "EE",
+                    "description": "EAt, Yes, So, SHow, Zoo, vIsion"
+                },
+                {
+                    "index": 6,
+                    "name": "OU",
+                    "description": "fOOd, mOUse"
+                },
+                {
+                    "index": 7,
+                    "name": "MM",
+                    "description": "Mouse, Bat, Plate"
+                },
+                {
+                    "index": 8,
+                    "name": "CH",
+                    "description": "CHat, Tea"
+                },
+                {
+                    "index": 9,
+                    "name": "DD",
+                    "description": "Dim, Go, joG, King, New, siNG"
+                },
+                {
+                    "index": 10,
+                    "name": "LL",
+                    "description": "Lie, Laugh"
+                },
+                {
+                    "index": 11,
+                    "name": "FV",
+                    "description": "Fast, Fat, View"
+                },
+                {
+                    "index": 12,
+                    "name": "TH",
+                    "description": "THin, THink, THis"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "category": "hand",
+            "ignore": [],
+            "layers": [
+                12,
+                14
+            ],
+            "mirror": "L",
+            "camera": "hand_cam",
+            "pose": [
+                {
+                    "index": 0,
+                    "name": ".neutral",
+                    "description": "Neutral pose."
+                },
+                {
+                    "index": 1,
+                    "name": "squeeze",
+                    "description": "fingers squeezed together"
+                },
+                {
+                    "index": 2,
+                    "name": "stretch",
+                    "description": "fingers stretched as far apart as possible"
+                },
+                {
+                    "index": 3,
+                    "name": "splay",
+                    "description": "splay the fingers down, with the pinky furthest"
+                },
+                {
+                    "index": 4,
+                    "name": "scrunch",
+                    "description": "scrunching fingers, starting with mid knuckle."
+                },
+                {
+                    "index": 5,
+                    "name": "fist",
+                    "description": "a tight fist"
+                },
+                {
+                    "index": 6,
+                    "name": "fist - relaxed",
+                    "description": "a more relaxed fist"
+                },
+                {
+                    "index": 7,
+                    "name": "relaxed",
+                    "description": "just a relaxed hand pose"
+                },
+                {
+                    "index": 8,
+                    "name": "point - one",
+                    "description": "One finger pointing."
+                },
+                {
+                    "index": 9,
+                    "name": "two",
+                    "description": "two fingers pointing"
+                },
+                {
+                    "index": 10,
+                    "name": "two - squeeze",
+                    "description": "two fingers pointing, squeezed together"
+                },
+                {
+                    "index": 11,
+                    "name": "three",
+                    "description": "three fingers held up"
+                },
+                {
+                    "index": 12,
+                    "name": "three - squeeze",
+                    "description": "three fingers squeezed together"
+                },
+                {
+                    "index": 13,
+                    "name": "four",
+                    "description": "four fingers held up"
+                },
+                {
+                    "index": 14,
+                    "name": "four - squeeze",
+                    "description": "four fingers squeezed together"
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "category": "body",
+            "ignore": [],
+            "layers": [
+                0,
+                2,
+                5,
+                6,
+                7,
+                9,
+                10,
+                12,
+                14,
+                16,
+                19,
+                24,
+                25,
+                26
+            ],
+            "mirror": "NONE",
+            "camera": "body_cam",
+            "pose": [
+                {
+                    "index": 0,
+                    "name": ".neutral",
+                    "description": "Neutral pose."
+                }
+            ]
+        }
+    ],
+    "camera_file": {
+        "path": "/Users/sjason/Documents/Blender/addons/fp_library/templates",
+        "file": "library_cameras.blend"
+    }
+}
